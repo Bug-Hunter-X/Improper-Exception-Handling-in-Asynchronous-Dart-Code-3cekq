@@ -1,0 +1,3 @@
+# Improper Exception Handling in Asynchronous Dart Code
+
+This repository demonstrates a common error in Dart: insufficient exception handling within asynchronous operations using `async` and `await`. The provided code fetches data from an API, but its error handling is inadequate. The solution showcases best practices for handling exceptions, providing a more robust and reliable way to manage potential errors during asynchronous tasks.  This improves the application's stability and helps prevent unexpected crashes.
